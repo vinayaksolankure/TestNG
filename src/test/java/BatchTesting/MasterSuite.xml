@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="MasterSuite">
+<suite-files>
+<suite-file path="E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\TestNG\src\test\java\BatchTesting\SanityTesting.xml"></suite-file>
+<suite-file path="E:\OneDrive\Desktop\DemoTest\Eclipse Workspace\DemoTestMavenProject\TestNG\src\test\java\BatchTesting\FunctionalTesting.xml"></suite-file>
+</suite-files>
+</suite>
+

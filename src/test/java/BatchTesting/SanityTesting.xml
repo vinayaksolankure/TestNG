@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="SanityTesting">
+  <test thread-count="5" name="TestSuite1">
+    <classes>
+      <class name="BatchTesting.LoginTest"/>
+      <class name="BatchTesting.HomeScreenTest"/>
+    </classes>
+  </test> <!-- TestSuite1 -->
+</suite> <!-- SanityTesting -->
